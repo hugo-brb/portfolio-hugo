@@ -1,0 +1,42 @@
+{
+  "name": "portfolio-2024",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.6.0",
+    "@fortawesome/free-brands-svg-icons": "^6.6.0",
+    "@fortawesome/free-solid-svg-icons": "^6.6.0",
+    "@fortawesome/react-fontawesome": "^0.2.2",
+    "@studio-freight/lenis": "^1.0.42",
+    "dotenv": "^16.4.5",
+    "next": "14.2.14",
+    "next-intl": "^3.21.1",
+    "nodemailer": "^6.9.15",
+    "react": "^18",
+    "react-animated-cursor": "^2.11.2",
+    "react-dom": "^18",
+    "react-modal": "^3.16.1",
+    "react-rotating-text": "^1.4.1",
+    "react-simple-rotating-text": "^0.0.5",
+    "react-slick": "^0.30.2",
+    "sharp": "^0.33.5",
+    "slick-carousel": "^1.8.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/nodemailer": "^6.4.16",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.14",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5"
+  }
+}

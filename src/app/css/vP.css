@@ -1,0 +1,42 @@
+.btnVP {
+    border: none;
+    width: 15em;
+    height: 5em;
+    border-radius: 3em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 12px;
+    background: #0a0a0a;
+    cursor: pointer;
+    transition: all 450ms ease-in-out;
+  }
+  
+  .sparkleVP {
+    fill: #f2f4f3;
+    transition: all 800ms ease;
+  }
+  
+  .textVP {
+    font-weight: 600;
+    color: #f2f4f3;
+    font-size: medium;
+  }
+  
+  .btnVP:hover {
+    background: linear-gradient(0deg,#e6007e, #67348b);
+    box-shadow: inset 0px 1px 0px 0px #2c2c2c,
+    inset 0px -4px 0px 0px rgba(0, 0, 0, 0.2),
+    0px 0px 0px 4px #2c2c2c,
+    0px 0px 180px 0px #67348b;
+    transform: translateY(-2px);
+  }
+  
+  .btnVP:hover .text {
+    color: #f2f4f3;
+  }
+  
+  .btnVP:hover .sparkle {
+    fill: #f2f4f3;
+    transform: scale(1.2);
+  } 

@@ -1,0 +1,141 @@
+{
+    "Header" : {
+        "Accueil": "Accueil",
+        "Projets": "Projets",
+        "Contact": "Contact"
+    },
+
+
+    "HomePage" : {
+        "Loc": "Grenoble - France",
+        "Dev": "Développeur",
+
+        "Apropos": "A-propos",
+        "Idhugo" : "Né sous le nom d'Hugo BARBIERI, je suis, depuis aussi longtemps que je me souvienne, passionné par l'informatique. Ayant obtenu mon baccalauréat général l'été dernier, j'exerce à présent des matières qui m'animent comme le développement web et orienté objet et l'IHM dans une formation qui me correspond. Durant ma première année en BUT informatique à l'IUT2 de Grenoble, j'ai pu développer des compétences en gestion de projet et développement me permettant ainsi d'agir au sein d'un groupe de développeur pour mener à bien un projet informatique. Mon attrait pour l'innovation et ma soif d'apprendre font de moi le candidat idéal pour contribuer de manière significative à des projets informatiques au sein d'une entreprise prometteuse.",
+        "My+": "Mes +",
+        "Facination" : "Fasciné par le monde de l'informatique et constamment en quête d'innovation, je suis animé par le désir de découvrir et d'apprendre sans cesse de nouvelles choses !",
+        "Lang" : "Avec un niveau B2 en anglais et en italien, je suis à l'aise pour comprendre des documents techniques et pour suivre une conversation dans ces langues.",
+        "Permis" : "Titulaire d'un permis de conduire de catégorie B et disposant d'un véhicule, je suis autonome dans mes déplacements.",
+        
+        "Projets" : "Projets",
+        "Projetsd" : "Projet d'",
+        "Projetsde" : "Projet de",
+        "ThisPortfolio" : "Ce Portfolio",
+        "ProjetPortfolio" : "Pour la refonte de mon portfolio, j'ai adopté Next.js pour améliorer les performances et l'expérience utilisateur, tout en modernisant l'ergonomie et la charte graphique pour une navigation fluide et un rendu visuel plus professionnel sur tous les supports...",
+        "ProjetChiefs" : "Dans notre projet 'Chief's Arena,' nous avons développé une application JavaFX pour faciliter la gestion d'événements culinaires, et en tant que chef d'équipe, j'ai coordonné le développement pour offrir une solution intuitive aux particuliers et professionnels de l'événementiel...",
+        "PEtu" : "Projet étudiant",
+        "ProjetEtu" : "Notre équipe de 8 personnes développe une application web innovante, alliant Next.js, React et Django, pour offrir une expérience immersive qui valorise le patrimoine mobilier français à travers une interface moderne et intuitive...",
+        "Voir" : "Voir plus",
+        "Janvier" : "Janvier",
+        "Fevrier" : "Février",
+        "Mars" : "Mars",
+        "Avril" : "Avril",
+        "Mai" : "Mai",
+        "Juin" : "Juin",
+        "Juillet" : "Juillet",
+        "Aout" : "Août",
+        "Septembre" : "Septembre",
+        "Octobre" : "Octobre",
+        "Novembre" : "Novembre",
+        "Decembre" : "Décembre",
+
+        "Contact" : "Contact",
+        "ContactMe" : "Contactez-moi",
+        "Genre" : "Genre :",
+        "M" : "M.",
+        "Mme" : "Mme.",
+        "Nom" : "Nom :",
+        "Ent" : "Entreprise :",
+        "Mail" : "Email :",
+        "Mess" : "Message :",
+        "Envoyer" : "Envoyer",
+        "VotreNom" : "Votre nom",
+        "VotreEnt" : "Votre entreprise",
+        "VotreMail" : "Votre email",
+        "VotreMess" : "Votre message"
+    },
+
+
+    "ProjetsPage" : {
+        "MyProjets" : "Mes Projets",
+        "Intro" : "Je vous invite à explorer mes projets dans l'ordre chronologique, mettant en lumière mon parcours et l'évolution de mes compétences, du développement d'applications innovantes à la création de sites web.",
+        "LienProjet" : "Lien vers le projet",
+        "P1" : "Projet étudiant : Création d'une application Web",
+        "P1-1" : "Dans le cadre d’un projet étudiant ambitieux, notre équipe de 8 personnes a pour mission de concevoir et développer une application web dédiée à la valorisation de la culture française, en mettant un accent particulier sur la préservation et la promotion du patrimoine mobilier.",
+        "P1-2" : "Nous utiliserons Next.js et React pour construire un front-end réactif, fluide et moderne, offrant une expérience utilisateur immersive. Le back-end sera conçu avec Django, garantissant une architecture robuste, évolutive et facilement maintenable, capable de supporter une base de données riche en contenus patrimoniaux. Grâce à cette combinaison de technologies, nous viserons à créer une plateforme performante, évolutive et axée sur la découverte du patrimoine culturel à travers une interface moderne et intuitive.",
+        "P2" : "Projet d'entreprise : Refonte de mon Portfolio",
+        "P2-1" : "Dans le cadre de la refonte complète de mon portfolio, j’ai choisi d’adopter la technologie Next.js afin d'améliorer la performance globale du site et d'optimiser le rendu côté serveur pour une meilleure réactivité. Ce projet vise également à repenser l'ergonomie, en mettant un fort accent sur l'expérience utilisateur : navigation simplifiée, accès intuitif aux informations et meilleure accessibilité sur tous types de supports (mobile, tablette, desktop).",
+        "P2-2" : "Par ailleurs, j’ai entrepris une refonte partielle de la charte graphique pour moderniser l’apparence visuelle du site. Cette nouvelle direction graphique s’accompagne de choix de couleurs, typographies et éléments visuels qui renforcent la cohérence esthétique et l'identité professionnelle du portfolio.",
+        "P3" : "Projet étudiant : Création d'une application",
+        "P3-1" : "Dans le cadre de notre projet intitulé 'Chief's Arena,' notre équipe de 6 personnes avait pour mission de concevoir et développer une application en JavaFX destinée à assister tant les particuliers que les professionnels de l'événementiel, en se concentrant particulièrement sur la création et la gestion d'événements culinaires de type concours. Cette application innovante offre une gamme d'outils intuitifs qui simplifient l'organisation, la planification et le suivi de ces événements, facilitant ainsi chaque étape du processus pour les utilisateurs.",
+        "P3-2" : "En tant que",
+        "P3-3" : "chef d'équipe et implémenteur",
+        "P3-4" : ", j’ai eu pour responsabilité de coordonner les tâches entre les membres de l'équipe, de superviser le développement technique et de garantir la cohérence et la qualité du projet dans son ensemble. Mon rôle m’a également permis de favoriser une collaboration efficace et de m'assurer que les objectifs de l'application étaient atteints dans les délais impartis, tout en répondant aux besoins des utilisateurs finaux.",
+        "P4" : "Ce portfolio",
+        "P4-1" : " Mon portfolio est un projet en constante évolution, conçu dans le but d'explorer en profondeur les tenants et aboutissants de React. Il sert également à me présenter, ainsi que les projets sur lesquels j'ai travaillé, offrant ainsi un aperçu de mes compétences et de mes expériences.",
+        "P4-2" : "À chaque mise à jour, je m’efforce d’améliorer l’expérience utilisateur, en intégrant des fonctionnalités novatrices et en apportant des ajustements significatifs. Ces mises à jour incluent l'ajout de nouvelles animations captivantes qui rendent la navigation plus dynamique et engageante, ainsi que l'optimisation de l'accessibilité pour garantir une expérience optimale pour tous les utilisateurs, indépendamment de leurs besoins spécifiques. Mon engagement envers l'amélioration continue et l'adaptabilité de ce portfolio témoigne de ma volonté de rester à la pointe des technologies web tout en créant une interface à la fois fonctionnelle et esthétique.",
+        "P5" : "Création d'un jeu vidéo sur Terminal",
+        "P5-1" : "Jeu Faerun",
+        "P5-2" : "Dans le cadre d'un projet étudiant, j'ai eu l'opportunité de développer un jeu intitulé Faerun, basé sur un diagramme UML. Ce jeu, conçu pour être joué sur terminal, est un jeu stratégique de conquête dans lequel le joueur incarne un roi qui souhait conquérir le royaume adverse.",
+        "P5-3" : "Le gameplay de Faerun permet aux joueurs de jouer contre une ia, de prendre des décisions cruciales, tout en relevant les défis.",
+        "P6" : "Gestion et analyse d'une base de données",
+        "P6-1" : "Dans le cadre d'un projet étudiant, j'ai entrepris de nettoyer une base de données open source portant sur le nutriscore des aliments, en particulier celle d'OpenFoodFacts. Mon objectif principal était de ne conserver que les informations pertinentes relatives aux boissons sucrées françaises. Ce processus a impliqué une attention minutieuse à la gestion des éventuelles erreurs de saisie commises par les contributeurs, afin d'assurer l'intégrité et la fiabilité des données.",
+        "P6-2" : "Après avoir nettoyé et validé la base de données, j'ai utilisé ces informations pour élaborer un rapport statistique approfondi. Ce rapport examine la relation entre le nutriscore et les différentes valeurs nutritionnelles de ces boissons, offrant des insights précieux sur la qualité nutritionnelle et les tendances de consommation. Grâce à cette analyse, j'ai pu mettre en lumière les implications de ces données sur la santé publique et le choix des consommateurs. ",
+        "P7" : "Projet étudiant : Classification de dépêches",
+        "P7-1" : "Dans le cadre d'un projet à l'IUT2 de Grenoble, j'ai conçu un script en Java destiné à classer des dépêches en différentes catégories, telles que le sport, la culture et la politique. Ce script utilise des techniques d'analyse de contenu pour trier efficacement les dépêches, en s'appuyant sur des critères prédéfinis et des mots-clés pertinents.",
+        "P7-2" : "L'objectif de ce projet était de créer un outil capable d'automatiser le processus de classification, facilitant ainsi l'accès à l'information pour les utilisateurs. Grâce à des algorithmes de traitement de texte, le script peut identifier le thème principal de chaque dépêche, garantissant un tri approprié et précis. Cette expérience m'a permis d'approfondir mes compétences en programmation Java et en traitement de données, tout en développant une meilleure compréhension des défis liés à l'analyse de contenu.",
+        "P8" : "Projet étudiant : Création et administration de VM",
+        "P8-1" : "Durant mon projet étudiant, j'ai eu l'opportunité de créer et d'administrer une machine virtuelle (VM) sous Linux afin de répondre aux critères de base d'une VM fonctionnelle. Ce projet m'a permis d'acquérir des compétences précieuses en administration système.",
+        "P8-2" : "J'ai configuré la VM pour assurer une performance optimale et une utilisation efficace des ressources, en mettant en place des paramètres tels que la mémoire, le stockage et la connectivité réseau. De plus, j'ai installé les outils nécessaires pour gérer et sécuriser l'environnement, garantissant ainsi sa stabilité et sa fiabilité. Cette expérience m'a permis de renforcer ma compréhension des systèmes d'exploitation et d'explorer les meilleures pratiques en matière de gestion des environnements virtuels.",
+        "P9" : "Projet étudiant : Analyse d'une entreprise et création de site web",
+        "P9-1" : "Dans le cadre d'un projet étudiant réalisé en groupe de 3, j'ai eu l'occasion d'analyser l'entreprise Orange Business sous l'angle de sa transition écologique. Cette analyse a impliqué l'examen des initiatives et des pratiques mises en place par l'entreprise pour réduire son impact environnemental et promouvoir des solutions durables.",
+        "P9-2" : "Suite à cette étude, nous avons développé un site web en HTML et CSS destiné à présenter l'entreprise et à mettre en valeur ses efforts en matière de transition écologique. Le site met en avant les projets et les initiatives d'Orange Business, soulignant ainsi l'importance de son engagement envers une approche plus durable. Grâce à cette expérience, j'ai pu allier mes compétences techniques en développement web à une réflexion critique sur les enjeux environnementaux, tout en apprenant à concevoir une interface conviviale et informative.",
+        "P10" : "Création d'un site web pour un artisan",
+        "P10-1" : "Durant mes derniers mois de Terminale, j'ai eu l'opportunité de réaliser un site web en HTML et CSS pour un artisan du bâtiment. À l'époque, mes connaissances en développement web étaient encore limitées, et ce projet représentait ma première expérience dans la création d'un site web complet.",
+        "P10-2" : "Depuis, j'ai considérablement élargi mes compétences, notamment en React, ce qui m'a permis de mieux comprendre les enjeux liés à la conception et au développement web. Aujourd'hui, mon objectif est de reconstruire ce site en intégrant les nouvelles connaissances et techniques que j'ai acquises. Ce processus de refonte me permettra non seulement d'améliorer l'esthétique et l'ergonomie du site, mais aussi d'optimiser ses performances et sa fonctionnalité, tout en offrant une expérience utilisateur enrichie.",
+        "Janvier" : "Janvier",
+        "Fevrier" : "Février",
+        "Mars" : "Mars",
+        "Avril" : "Avril",
+        "Mai" : "Mai",
+        "Juin" : "Juin",
+        "Juillet" : "Juillet",
+        "Aout" : "Août",
+        "Septembre" : "Septembre",
+        "Octobre" : "Octobre",
+        "Novembre" : "Novembre",
+        "Decembre" : "Décembre"
+    },
+
+    "Contact" : {
+        "ContactMe" : "Contactez-moi",
+        "Genre" : "Genre :",
+        "M" : "M.",
+        "Mme" : "Mme.",
+        "Nom" : "Nom :",
+        "Ent" : "Entreprise :",
+        "Mail" : "Email :",
+        "Mess" : "Message :",
+        "Envoyer" : "Envoyer",
+        "VotreNom" : "Votre nom",
+        "VotreEnt" : "Votre entreprise",
+        "VotreMail" : "Votre email",
+        "VotreMess" : "Votre message",
+        "MyLinkedin" : "Mon linkedin"
+    },
+
+
+    "Footer" : {
+        "Acces" : "Accès rapide",
+        "Accueil": "Accueil",
+        "Projets": "Projets",
+        "Contact": "Contact",
+        "Download" : "Télécharger mon CV",
+        "Reseaux" : "Mes réseaux"
+    },
+
+
+    "Caroussel" : {
+        "img" : "Voir les images du projet"
+    }
+}

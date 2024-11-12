@@ -1,0 +1,163 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import "~slick-carousel/slick/slick.css";
+@import "~slick-carousel/slick/slick-theme.css";
+
+/*Charte Graphique : 
+  - #0a0a0a --> Night
+  - #2c2c2c --> Jet
+  - #67348b --> Eminence
+  - #e6007e --> Mexican pink
+  - #f2f4f3 --> White smoke
+*/
+
+:root {
+  --background: #0a0a0a;
+  --foreground: #f2f4f3;
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: scale(0.8);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+.fadein {
+  animation: fadeIn linear;
+  animation-timeline: view();
+  animation-range: entry 0 cover 25%; 
+}
+
+/*ScrollBar*/
+::-webkit-scrollbar {
+  width: 0px;
+}
+
+::-webkit-scrollbar-track {
+  background-color: rgb(63,63,70); 
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgb(230,0,126);
+background: linear-gradient(161deg, rgba(230,0,126,1) 0%, rgba(103,52,139,1) 100%);
+}
+
+/*About Home*/
+.aboutHome {
+  background: linear-gradient(#0a0a0a, #0a0a0a) padding-box,
+              linear-gradient(145deg, transparent 35%, #67348b, #e6007e) border-box;
+  border: 2px solid transparent;
+  padding: 32px 24px;
+  box-sizing: border-box;
+  border-radius: 16px;
+}
+
+/* Form Contact */
+.form-contact {
+  background: linear-gradient(#0a0a0a, #0a0a0a) padding-box,
+              linear-gradient(145deg, transparent 35%, #67348b, #e6007e) border-box;
+  border: 2px solid transparent;
+  padding: 32px 24px;
+  box-sizing: border-box;
+  border-radius: 16px;
+}
+
+.form-contact-select{
+  color: #717171;
+  font-weight: 600;
+}
+
+.form-contact-select input{
+  background: transparent;
+}
+
+.form-contact button:active {
+  scale: 0.95;
+}
+
+
+.form-contact label {
+  display: block;
+  margin-bottom: 5px;
+  color: #717171;
+  font-weight: 600;
+}
+
+.form-contact input {
+  width: 100%;
+  padding: 12px 16px;
+  border-radius: 8px;
+  color: #fff;
+  background-color: transparent;
+  border: 1px solid #414141;
+}
+
+.form-contact textarea {
+  padding: 12px 16px;
+  border-radius: 8px;
+  color: #fff;
+  border: 1px solid #414141;
+  background-color: transparent;
+}
+
+.form-contact textarea::placeholder {
+  color: #717171;
+}
+
+
+.form-contact input::placeholder {
+  opacity: 0.5;
+}
+
+.form-contact input:focus {
+  outline: none;
+  border-color: #e81cff;
+}
+
+.form-contact textarea:focus {
+  outline: none;
+  border-color: #e81cff;
+}
+
+.form-contact .form-contact-submit-btn {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  align-self: flex-start;
+  font-family: inherit;
+  color: #717171;
+  font-weight: 600;
+  width: 40%;
+  background: #313131;
+  border: 1px solid #414141;
+  padding: 12px 16px;
+  gap: 8px;
+  margin-top: 8px;
+  cursor: pointer;
+  border-radius: 6px;
+}
+
+.form-contact .form-contact-submit-btn:hover {
+  background-color: #fff;
+  border-color: #fff;
+}

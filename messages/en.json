@@ -1,0 +1,142 @@
+{
+    "Header" : {
+        "Accueil": "Home",
+        "Projets": "Projects",
+        "Contact": "Contact"
+    },
+
+
+    "HomePage" : {
+        "Loc": "Grenoble - France",
+        "Dev": "Developer",
+
+        "Apropos": "About",
+        "Idhugo" : "Born as Hugo BARBIERI, I have been passionate about computers for as long as I can remember. After earning my high school diploma last summer, I am now studying subjects that fascinate me, such as web development, object-oriented programming, and human-computer interaction in a course that suits me. During my first year in the Computer Science program at IUT2 of Grenoble, I developed skills in project management and development, enabling me to work within a team of developers to successfully complete IT projects. My passion for innovation and thirst for learning make me the ideal candidate to contribute significantly to IT projects within a promising company.",
+        "My+": "My +",
+        "Facination" : "Fascinated by the world of computing and constantly seeking innovation, I am driven by the desire to discover and continuously learn new things!",
+        "Lang" : "With a B2 level in English and Italian, I am comfortable understanding technical documents and participating in conversations in these languages.",
+        "Permis" : "Holder of a category B driver's license and owning a vehicle, I am independent in my travels.",
+        
+        "Projets" : "Projects",
+        "Projetsd" : "Project of",
+        "Projetsde" : "Project by",
+        "ThisPortfolio" : "This Portfolio",
+        "ProjetPortfolio" : "For the redesign of my portfolio, I adopted Next.js to improve performance and user experience, while modernizing the ergonomics and design for a smoother navigation and a more professional visual rendering across all devices...",
+        "ProjetChiefs" : "In our 'Chief's Arena' project, we developed a JavaFX application to facilitate the management of culinary events, and as the team leader, I coordinated development to offer an intuitive solution for individuals and event professionals...",
+        "PEtu" : "Student project",
+        "ProjetEtu" : "Our team of 8 is developing an innovative web application, combining Next.js, React, and Django, to offer an immersive experience that showcases French furniture heritage through a modern and intuitive interface...",
+        "Voir" : "See more",
+        "Janvier" : "January",
+        "Fevrier" : "February",
+        "Mars" : "March",
+        "Avril" : "April",
+        "Mai" : "May",
+        "Juin" : "June",
+        "Juillet" : "July",
+        "Aout" : "August",
+        "Septembre" : "September",
+        "Octobre" : "October",
+        "Novembre" : "November",
+        "Decembre" : "December",
+
+        "Contact" : "Contact",
+        "ContactMe" : "Contact me",
+        "Genre" : "Gender:",
+        "M" : "Mr.",
+        "Mme" : "Mrs.",
+        "Nom" : "Name:",
+        "Ent" : "Company:",
+        "Mail" : "Email:",
+        "Mess" : "Message:",
+        "Envoyer" : "Submit",
+        "VotreNom" : "Your name",
+        "VotreEnt" : "Your company",
+        "VotreMail" : "Your email",
+        "VotreMess" : "Your message"
+    },
+
+
+    "ProjetsPage" : {
+        "MyProjets" : "My Projects",
+        "Intro" : "I invite you to explore my projects in chronological order, highlighting my journey and the evolution of my skills, from developing innovative applications to creating websites.",
+        "LienProjet" : "Link to project",
+        "P1" : "Student Project: Creating a Web Application",
+        "P1-1" : "As part of an ambitious student project, our team of 8 is tasked with designing and developing a web application dedicated to showcasing French culture, with a particular focus on preserving and promoting furniture heritage.",
+        "P1-2" : "We are using Next.js and React to build a responsive, fluid, and modern front-end, offering an immersive user experience. The back-end will be built with Django, ensuring a robust, scalable, and easily maintainable architecture capable of supporting a rich database of heritage content. This combination of technologies aims to create a high-performance, scalable platform focused on the discovery of cultural heritage through a modern and intuitive interface.",
+        "P2" : "Company Project: Redesigning my Portfolio",
+        "P2-1" : "As part of the complete redesign of my portfolio, I chose to adopt Next.js technology to improve the overall performance of the site and optimize server-side rendering for better responsiveness. This project also aims to rethink the ergonomics, with a strong focus on user experience: simplified navigation, intuitive access to information, and better accessibility across all types of devices (mobile, tablet, desktop).",
+        "P2-2" : "In addition, I undertook a partial redesign of the visual identity to modernize the site's appearance. This new graphic direction includes choices in colors, typography, and visual elements that enhance the aesthetic coherence and professional identity of the portfolio.",
+        "P3" : "Student Project: Creating an Application",
+        "P3-1" : "As part of our project titled 'Chief's Arena,' our team of 6 was tasked with designing and developing a JavaFX application intended to assist both individuals and event professionals, focusing particularly on creating and managing culinary events like contests. This innovative application provides a range of intuitive tools that simplify the organization, planning, and tracking of these events, making each step easier for users.",
+        "P3-2" : "As",
+        "P3-3" : "team leader and implementer",
+        "P3-4" : ", I was responsible for coordinating tasks among team members, overseeing technical development, and ensuring the consistency and quality of the project as a whole. My role also allowed me to foster effective collaboration and ensure that the application's objectives were met within the given deadlines, while addressing the needs of end users.",
+        "P4" : "This Portfolio",
+        "P4-1" : " My portfolio is a constantly evolving project, designed to explore the intricacies of React. It also serves to introduce myself and the projects I have worked on, offering an overview of my skills and experiences.",
+        "P4-2" : "With each update, I strive to improve the user experience by integrating innovative features and making significant adjustments. These updates include the addition of new captivating animations that make navigation more dynamic and engaging, as well as optimizing accessibility to ensure an optimal experience for all users, regardless of their specific needs. My commitment to continuous improvement and adaptability in this portfolio demonstrates my desire to stay at the forefront of web technologies while creating an interface that is both functional and aesthetic.",
+        "P5" : "Creating a Video Game on Terminal",
+        "P5-1" : "Faerun Game",
+        "P5-2" : "As part of a student project, I had the opportunity to develop a game titled Faerun, based on a UML diagram. This game, designed to be played on a terminal, is a strategic conquest game where the player takes on the role of a king seeking to conquer the enemy kingdom.",
+        "P5-3" : "Faerun's gameplay allows players to play against an AI, make crucial decisions, and face challenges.",
+        "P6" : "Managing and Analyzing a Database",
+        "P6-1" : "As part of a student project, I undertook cleaning an open-source database related to the nutriscore of food products, specifically from OpenFoodFacts. My main goal was to keep only relevant information about French sugary drinks. This process involved paying careful attention to managing potential input errors made by contributors, to ensure the integrity and reliability of the data.",
+        "P6-2" : "After cleaning and validating the database, I used this information to create an in-depth statistical report. This report examines the relationship between the nutriscore and the various nutritional values of these beverages, providing valuable insights into nutritional quality and consumption trends. Through this analysis, I was able to highlight the implications of this data on public health and consumer choices.",
+        "P7" : "Student Project: Classifying News Dispatches",
+        "P7-1" : "As part of a project at IUT2 of Grenoble, I designed a Java script to classify news dispatches into different categories, such as sports, culture, and politics. This script uses content analysis techniques to effectively sort the dispatches, relying on predefined criteria and relevant keywords.",
+        "P7-2" : "The goal of this project was to create a tool capable of automating the classification process, thus facilitating access to information for users. Using text processing algorithms, the script can identify the main theme of each dispatch, ensuring proper and accurate sorting. This experience allowed me to deepen my skills in Java programming and data processing while gaining a better understanding of the challenges of content analysis.",
+        "P8" : "Student Project: Creating and Managing Virtual Machines",
+        "P8-1" : "During my student project, I had the opportunity to create and manage a virtual machine (VM) on Linux to meet the basic criteria of a functional VM. This project allowed me to gain valuable system administration skills.",
+        "P8-2" : "I configured the VM to ensure optimal performance and efficient use of resources, implementing settings such as memory, storage, and network connectivity. Additionally, I installed the necessary tools to manage and secure the environment, ensuring that the VM met the project's specific needs. Through this hands-on experience, I gained practical insights into managing VMs and their applications in various IT contexts, contributing to my understanding of system administration and the use of virtualization in modern IT infrastructures.",
+        "P9" : "Student Project: Company Analysis and Website Creation",
+        "P9-1" : "As part of a student project carried out in a group of three, I had the opportunity to analyze the company Orange Business from the perspective of its ecological transition. This analysis involved examining the initiatives and practices implemented by the company to reduce its environmental impact and promote sustainable solutions.",
+        "P9-2" : "Following this study, we developed a website using HTML and CSS to present the company and highlight its efforts in terms of ecological transition. The site showcases Orange Business's projects and initiatives, emphasizing the importance of its commitment to a more sustainable approach. Through this experience, I was able to combine my technical skills in web development with critical thinking about environmental issues, while learning to design a user-friendly and informative interface.",
+        "P10" : "Website Creation for an Artisan",
+        "P10-1" : "During my last months of high school, I had the opportunity to create a website using HTML and CSS for a construction artisan. At the time, my knowledge of web development was still limited, and this project marked my first experience in building a complete website.",
+        "P10-2" : "Since then, I have significantly expanded my skills, particularly in React, which has allowed me to better understand the challenges related to web design and development. Today, my goal is to rebuild this site by integrating the new knowledge and techniques I have acquired. This redesign process will not only improve the site's aesthetics and ergonomics but also optimize its performance and functionality, while providing an enriched user experience.",
+        "Janvier" : "January",
+        "Fevrier" : "February",
+        "Mars" : "March",
+        "Avril" : "April",
+        "Mai" : "May",
+        "Juin" : "June",
+        "Juillet" : "July",
+        "Aout" : "August",
+        "Septembre" : "September",
+        "Octobre" : "October",
+        "Novembre" : "November",
+        "Decembre" : "December"
+    },
+
+
+    "Contact" : {
+    "ContactMe" : "Contact me",
+    "Genre" : "Gender:",
+    "M" : "Mr.",
+    "Mme" : "Mrs.",
+    "Nom" : "Name:",
+    "Ent" : "Company:",
+    "Mail" : "Email:",
+    "Mess" : "Message:",
+    "Envoyer" : "Submit",
+    "VotreNom" : "Your name",
+    "VotreEnt" : "Your company",
+    "VotreMail" : "Your email",
+    "VotreMess" : "Your message",
+    "MyLinkedin" : "My LinkedIn"
+    },
+
+
+    "Footer" : {
+        "Acces" : "Quick access",
+        "Accueil": "Home",
+        "Projets": "Projects",
+        "Contact": "Contact",
+        "Download" : "Download my CV",
+        "Reseaux" : "My networks"
+    },
+
+
+    "Caroussel" : {
+        "img" : "View project images"
+    }
+}
