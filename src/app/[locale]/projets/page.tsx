@@ -56,6 +56,33 @@ export default function Projects(){
 
       <div className=" fadein flex flex-col form-contact">
         <h3 className=" text-base font-bold text-[#2c2c2c]">{t('Octobre')} 2024</h3>
+        <h2 className=" text-2xl font-krungthep mb-1">{t('P11')}</h2> 
+        <div className=" mb-4 flex gap-2">
+          <span className=" bg-[#e6007e] py-[4px] px-[8px] uppercase text-[12px] font-semibold rounded-[50em]">
+            NextJs
+          </span>
+          <span className=" bg-[#e6007e] py-[4px] px-[8px] uppercase text-[12px] font-semibold rounded-[50em]">
+            React
+          </span>
+          <span className=" bg-[#e6007e] py-[4px] px-[8px] uppercase text-[12px] font-semibold rounded-[50em]">
+            i18n
+          </span>
+        </div>         
+        <p>
+        {t('P11-1')}
+        <br /> <br />
+        {t('P11-2')}
+        </p>
+        <a href="https://portfolio-celia.fr" target="_blank" className=" flex gap-2 mt-2 items-center underline underline-offset-2">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" className=" size-4 fill-white">
+            <path d="M470.6 278.6c12.5-12.5 12.5-32.8 0-45.3l-160-160c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L402.7 256 265.4 393.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l160-160zm-352 160l160-160c12.5-12.5 12.5-32.8 0-45.3l-160-160c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L210.7 256 73.4 393.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0z"/>
+          </svg>
+          {t('LienProjet')}
+        </a>
+      </div>
+
+      <div className=" fadein flex flex-col form-contact">
+        <h3 className=" text-base font-bold text-[#2c2c2c]">{t('Octobre')} 2024</h3>
         <h2 className=" text-2xl font-krungthep mb-1">{t('P2')}</h2> 
         <div className=" mb-4 flex gap-2">
           <span className=" bg-[#e6007e] py-[4px] px-[8px] uppercase text-[12px] font-semibold rounded-[50em]">

@@ -28,27 +28,27 @@ export default function Footer(){
     // Définition de l'objet de traductions
     const translations: TranslationsMap = {
         fr: {
-            Acces: 'Accès',
+            Acces: 'Accès Rapide',
             Accueil: 'Accueil',
             Projets: 'Projets',
             Contact: 'Contact',
-            Download: 'Télécharger CV',
+            Download: 'Télécharger mon CV',
             Reseaux: 'Réseaux Sociaux'
         },
         en: {
-            Acces: 'Access',
+            Acces: 'Quick Access',
             Accueil: 'Home',
             Projets: 'Projects',
             Contact: 'Contact',
-            Download: 'Download CV',
+            Download: 'Download my CV',
             Reseaux: 'Social Networks'
         },
         it: {
-            Acces: 'Accesso',
+            Acces: 'Accesso Rapido',
             Accueil: 'Home',
             Projets: 'Progetti',
             Contact: 'Contatto',
-            Download: 'Scarica CV',
+            Download: 'Scarica mio CV',
             Reseaux: 'Social Media'
         }
     };
